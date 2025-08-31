@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a passionate front-end developer specializing in creating modern and responsive web applications.
+I'm a passionate front-end developer and designer specializing in creating modern and responsive web applications.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/malak-elsayed-806ba7204/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge" /></a>
