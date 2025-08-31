@@ -5,6 +5,10 @@ I'm a passionate front-end developer specializing in creating modern and respons
   <a href="https://www.linkedin.com/in/malak-elsayed-806ba7204/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge" /></a>
 </p>
 
+<p align="left">
+  <a href="https://www.behance.net/mallakmuhammad" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+</p>
+
 ### 🛠️ My Tech Stack
 
 <p align="left">
