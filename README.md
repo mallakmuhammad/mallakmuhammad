@@ -5,6 +5,12 @@ I'm a passionate front-end developer specializing in creating modern and respons
   <a href="https://www.linkedin.com/in/malak-elsayed-806ba7204/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge" /></a>
 </p>
 
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,docker,aws" />
+</p>
+
 <!--
 **mallakmuhammad/mallakmuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
